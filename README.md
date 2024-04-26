@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Harpinton
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning ict
+- 🌱 I’m currently learning coding 
 - 💞️ I’m looking to advance in programing 
 - 📫 you can reach me via the following email harpington1@protonmail.com
 - 😄 Pronouns: male
